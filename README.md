@@ -23,7 +23,7 @@ edge {f(U), f(V)} ∈ G2, then G1 ≡ G2.
 4. Number of connected components should be same. 
 5. Number of loops should be same. 
 6. Number of parallel edges should be same.
-Note: -
+Note:
 If two graphs are looking same, but number of vertices and edges are not 
 same then it is not isomorphic.
 
@@ -48,7 +48,7 @@ Sage Math is mostly written In Python, but it also has hundreds of unique lines 
 It is a set of very efficient C language procedures for determining the automorphism group of vertex colored graph. It is also able to produce canonically labelled isomorph of the graph to help in isomorphism testing.
 
 
-####CYGWIN: 
+#### CYGWIN: 
 
 It is a posix compatible and run time environment which was used in the project to have a Unix like terminal which is required by nauty.
 
