@@ -8,7 +8,10 @@ Two graphs G1 and G2 are said to be isomorphic if −
 • Their number of components (vertices and edges) are same.
 • Their edge connectivity is retained.
 There exists a function ‘f’ from vertices of G1 to vertices of G2
- [f: V(G1) ⇒ V(G2)], such that
+ ```
+ [f: V(G1) ⇒ V(G2)]
+ ```
+ such that
 Case (i): f is a bijection (both one-one and onto)
 Case (ii): f preserves adjacency of vertices, i.e., if the edge {U, V} ∈ G1, 
 then the
