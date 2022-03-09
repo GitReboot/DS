@@ -4,7 +4,7 @@
 
 #### Isomorphic Graphs
 
-Two graphs G1 and G2 are said to be isomorphic if −
+Two graphs G1 and G2 are said to be isomorphic if
 • Their number of components (vertices and edges) are same.
 • Their edge connectivity is retained.
 There exists a function ‘f’ from vertices of G1 to vertices of G2
